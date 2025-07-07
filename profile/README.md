@@ -59,7 +59,7 @@ O Inatel CubeSat Design Team (ICDT), fundado em 2020 no Laboratório de Cyber Se
         <h3>Karawara &nbsp; <img src="https://img.shields.io/badge/Active-green" />
     </h3>
         <p>📍 OBSAT 2025</p>
-        <p>A missão Karawara usa um CubeSat para monitorar incêndios florestais em áreas remotas. Com uma câmera e inteligência artificial, o satélite detecta focos de incêndio e estima áreas queimadas. Essa solução de baixo custo visa melhorar os sistemas de monitoramento e predição de queimadas, contribuindo para o desenvolvimento do setor aeroespacial.</p>
+        <p>A missão Karawara usa um CubeSat para monitorar incêndios florestais em áreas remotas. Com uma câmera e inteligência artificial, o satélite detecta focos de incêndio e estima áreas queimadas. Essa solução de baixo custo visa melhorar os sistemas de monitoramento e predição de queimadas.</p>
         <div>
             <!-- Rodrigo Andrade -->
             <a href="https://github.com/RodrigoCAndrade">
