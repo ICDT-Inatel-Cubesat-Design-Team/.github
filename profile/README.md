@@ -29,14 +29,17 @@ O Inatel CubeSat Design Team (ICDT), fundado em 2020 no Laboratório de Cyber Se
             <a align="right" href="https://github.com/lara-conte-gomes">
                 <img src="assets/members/lara-rounded.png" alt="Lara Conte Picture" style="height: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
+            &nbsp;
             <!-- Matheus Renó -->
             <a align="right" href="https://github.com/RennowT">
                 <img src="assets/members/matheus-rounded.png" alt="Matheus Renó Picture" style="height: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
+            &nbsp;
             <!-- Diego Anestor -->
             <a align="right" href="https://github.com/DIEGOVZK">
                 <img src="assets/members/diego-rounded.png" alt="Diego Anestor Picture" style="height: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
+            &nbsp;
             <!-- Rodrigo Andrade -->
             <a href="https://github.com/RodrigoCAndrade">
                 <img src="assets/members/rodrigo-rounded.png" alt="Rodrigo Andrade Picture" style="height: 48px; padding-left: 5px; padding-right: 5px;" />
@@ -56,16 +59,18 @@ O Inatel CubeSat Design Team (ICDT), fundado em 2020 no Laboratório de Cyber Se
         <h3>Karawara &nbsp; <img src="https://img.shields.io/badge/Active-green" />
     </h3>
         <p>📍 OBSAT 2025</p>
-        <p>A missão Karawara utiliza um CubeSat para monitorar incêndios florestais em áreas remotas. Equipado com uma câmera e inteligência artificial, o satélite detecta focos de incêndio e estima áreas queimadas. A solução de baixo custo busca prevenir danos ambientais e aprimorar sistemas de monitoramento e predição de queimadas, contribuindo para o desenvolvimento do setor aeroespacial brasileiro.</p>
+        <p>A missão Karawara usa um CubeSat para monitorar incêndios florestais em áreas remotas. Com uma câmera e inteligência artificial, o satélite detecta focos de incêndio e estima áreas queimadas. Essa solução de baixo custo visa melhorar os sistemas de monitoramento e predição de queimadas, contribuindo para o desenvolvimento do setor aeroespacial.</p>
         <div>
             <!-- Rodrigo Andrade -->
             <a href="https://github.com/RodrigoCAndrade">
                 <img src="assets/members/rodrigo-rounded.png" alt="Rodrigo Andrade Picture" style="height: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
+            &nbsp;
             <!-- Allisson Machado -->
             <a href="https://github.com/AllissonMAndrade">
                 <img src="assets/members/allisson-rounded.png" alt="Allisson Machado Picture" style="height: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
+            &nbsp;
             <!-- Álvaro Careli -->
             <a href="https://github.com/alvarosamp">
                 <img src="assets/members/alvaro-rounded.png" alt="Álvaro Careli" style="height: 48px; padding-left: 5px; padding-right: 5px;" />
@@ -84,16 +89,18 @@ O Inatel CubeSat Design Team (ICDT), fundado em 2020 no Laboratório de Cyber Se
         <h3>WanderLust &nbsp; <img src="https://img.shields.io/badge/Active-green" />
     </h3>
         <p>📍 OBSAT 2025</p>
-        <p>A missão WanderLust tem como objetivo monitorar rios e corpos d’água para prever inundações. Um CubeSat equipado com uma câmera infravermelha captura imagens que destacam variações na extensão da água. Esses dados são processados no satélite e enviados à Terra, ajudando a identificar mudanças nos cursos d’água e mitigar impactos ambientais de forma rápida e acessível.</p>
+        <p>A missão WanderLust visa monitorar rios e corpos d'água para prever inundações. Um CubeSat com uma câmera infravermelha captura imagens que mostram variações na extensão da água. Os dados são processados no satélite e enviados à Terra, auxiliando na identificação de mudanças nos cursos d'água.</p>
         <div>
             <!-- José Eduardo -->
             <a href="https://github.com/JoseEduardoTeixeira">
                 <img src="assets/members/jose-rounded.png" alt="José Eduardo Picture" style="height: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
+            &nbsp;
             <!-- Rodrigo Andrade -->
             <a href="https://github.com/RodrigoCAndrade">
                 <img src="assets/members/rodrigo-rounded.png" alt="Rodrigo Andrade Picture" style="height: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
+            &nbsp;
             <!-- Allisson Machado -->
             <a href="https://github.com/AllissonMAndrade">
                 <img src="assets/members/allisson-rounded.png" alt="Allisson Machado Picture" style="height: 48px; padding-left: 5px; padding-right: 5px;" />
@@ -118,6 +125,7 @@ O Inatel CubeSat Design Team (ICDT), fundado em 2020 no Laboratório de Cyber Se
             <a align="right" href="https://github.com/DIEGOVZK">
                 <img src="assets/members/diego-rounded.png" alt="Diego Anestor Picture" style="height: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
+            &nbsp;
             <!-- Matheus Renó -->
             <a align="right" href="https://github.com/RennowT">
                 <img src="assets/members/matheus-rounded.png" alt="Matheus Renó Picture" style="height: 48px; padding-left: 5px; padding-right: 5px;" />
@@ -141,10 +149,12 @@ O Inatel CubeSat Design Team (ICDT), fundado em 2020 no Laboratório de Cyber Se
             <a align="right" href="https://github.com/ari-aju">
                 <img src="assets/members/arielli-rounded.png" alt="Arielli Ajudarte Picture" style="height: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
+            &nbsp;
             <!-- Lívia Cecília -->
             <a align="right" href="https://github.com/liviaceciliags">
                 <img src="assets/members/livia-rounded.png" alt="Lívia Cecília Picture" style="height: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
+            &nbsp;
             <!-- Gustavo Pivoto -->
             <a align="right" href="https://github.com/GustavoPivoto">
                 <img src="assets/members/gustavo-rounded.png" alt="Gustavo Pivoto Picture" style="height: 48px; padding-left: 5px; padding-right: 5px;" />
@@ -168,6 +178,7 @@ O Inatel CubeSat Design Team (ICDT), fundado em 2020 no Laboratório de Cyber Se
             <a align="right" href="https://github.com/ari-aju">
                 <img src="assets/members/arielli-rounded.png" alt="Arielli Ajudarte Picture" style="height: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
+            &nbsp;
             <!-- Diego Anestor -->
             <a align="right" href="https://github.com/DIEGOVZK">
                 <img src="assets/members/diego-rounded.png" alt="Diego Anestor Picture" style="height: 48px; padding-left: 5px; padding-right: 5px;" />
@@ -191,6 +202,7 @@ O Inatel CubeSat Design Team (ICDT), fundado em 2020 no Laboratório de Cyber Se
             <a align="right" href="https://github.com/DIEGOVZK">
                 <img src="assets/members/diego-rounded.png" alt="Diego Anestor Picture" style="height: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
+            &nbsp;
              <!-- Arielli Ajudarte -->
             <a align="right" href="https://github.com/ari-aju">
                 <img src="assets/members/arielli-rounded.png" alt="Arielli Ajudarte Picture" style="height: 48px; padding-left: 5px; padding-right: 5px;" />
@@ -205,7 +217,7 @@ O Inatel CubeSat Design Team (ICDT), fundado em 2020 no Laboratório de Cyber Se
     <h2>
     <img style="height: 24px;" alt="Light Bulb Emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.gif" />&nbsp;&nbsp;Participe
   </h2>
-</div> Quer participar da equipe? Envie um email para csi-adm@inatel.br com seu currículo em anexo, iremos entrar em contato com você durante o período de prospecção de novos membros!
+</div> Quer participar da equipe? Envie um email para <a href="mailto:csi-adm@inatel.br">csi-adm@inatel.br</a> com seu currículo em anexo, iremos entrar em contato com você durante o período de prospecção de novos membros!
 <br />
 <hr />
 <br />
