@@ -237,6 +237,6 @@ O Inatel CubeSat Design Team (ICDT), criado em 2020 no CS&I Lab do Inatel, desen
 
 <!-- Footer -->
 <div align="center">
-    <sup align="">Feito com <img style="height: 16px;" alt="Light Bulb Emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" /> por <a href="https://github.com/RodrigoCAndrade">Rodrigo Andrade</a>
+    <sup align="">Feito com <img style="height: 16px; width: 16px;" alt="Light Bulb Emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" /> por <a href="https://github.com/RodrigoCAndrade">Rodrigo Andrade</a>
   </sup>
 </div>
