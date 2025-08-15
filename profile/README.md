@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/Mq8RRIP.png" alt="ICDT Logo" style="height: 200px; width: 200px;">
-  <h1>Inatel CubeSat Design Team</h1>
-</div>
-
 <p align="justify">
 O Inatel CubeSat Design Team (ICDT), criado em 2020 no CS&I Lab do Inatel, desenvolve CubeSats e CanSats, capacita alunos de graduação para o setor aeroespacial e promove pesquisa e inovação. O grupo representa a instituição em competições e congressos nacionais e internacionais, contribuindo para o avanço das tecnologias espaciais. Também incentiva a ciência em escolas por meio de projetos educacionais, formando uma nova geração de exploradores e cientistas.
 </p>
@@ -18,7 +13,7 @@ O Inatel CubeSat Design Team (ICDT), criado em 2020 no CS&I Lab do Inatel, desen
 
 <!-- LASC 2025-->
 <div>
-    <a href="#">
+    <a href="https://github.com/ICDT-Inatel-Cubesat-Design-Team/6thLASC">
         <img align="left" style="height: 176px; width: 176px; padding-right: 20px;" alt="LASC Logo" src="assets/projects/geoscansat.png" />
     </a>
     <div>
@@ -29,32 +24,32 @@ O Inatel CubeSat Design Team (ICDT), criado em 2020 no CS&I Lab do Inatel, desen
         <div>
             <!-- Lara Conte -->
             <a align="right" href="https://github.com/lara-conte-gomes">
-                <img src="assets/members/lara-rounded.png" alt="Lara Conte Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
+                <img src="assets/members/lara.png" alt="Lara Conte Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
             &nbsp;
             <!-- Matheus Renó -->
             <a align="right" href="https://github.com/RennowT">
-                <img src="assets/members/matheus-rounded.png" alt="Matheus Renó Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
+                <img src="assets/members/matheus.png" alt="Matheus Renó Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
             &nbsp;
             <!-- Diego Anestor -->
             <a align="right" href="https://github.com/DIEGOVZK">
-                <img src="assets/members/diego-rounded.png" alt="Diego Anestor Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
+                <img src="assets/members/diego.png" alt="Diego Anestor Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
             &nbsp;
             <!-- Rodrigo Andrade -->
             <a href="https://github.com/RodrigoCAndrade">
-                <img src="assets/members/rodrigo-rounded.png" alt="Rodrigo Andrade Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
+                <img src="assets/members/rodrigo.png" alt="Rodrigo Andrade Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
             &nbsp;
             <!-- Lívia Cecília -->
             <a align="right" href="https://github.com/liviaceciliags">
-                <img src="assets/members/livia-rounded.png" alt="Lívia Cecília Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
+                <img src="assets/members/livia.png" alt="Lívia Cecília Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
             &nbsp;
             <!-- Gustavo Pivoto -->
             <a align="right" href="https://github.com/GustavoPivoto">
-                <img src="assets/members/gustavo-rounded.png" alt="Gustavo Pivoto Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
+                <img src="assets/members/gustavo.png" alt="Gustavo Pivoto Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
         </div>
     </div>
@@ -64,7 +59,7 @@ O Inatel CubeSat Design Team (ICDT), criado em 2020 no CS&I Lab do Inatel, desen
 
 <!-- Karawara-->
 <div>
-    <a href="#">
+    <a href="https://github.com/ICDT-Inatel-Cubesat-Design-Team/Karawara">
         <img align="left" style="height: 176px; width: 176px; padding-right: 20px;" alt="Karawara Logo" src="assets/projects/karawara.png" />
     </a>
     <div>
@@ -75,17 +70,17 @@ O Inatel CubeSat Design Team (ICDT), criado em 2020 no CS&I Lab do Inatel, desen
         <div>
             <!-- Rodrigo Andrade -->
             <a href="https://github.com/RodrigoCAndrade">
-                <img src="assets/members/rodrigo-rounded.png" alt="Rodrigo Andrade Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
+                <img src="assets/members/rodrigo.png" alt="Rodrigo Andrade Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
             &nbsp;
             <!-- Allisson Machado -->
             <a href="https://github.com/AllissonMAndrade">
-                <img src="assets/members/allisson-rounded.png" alt="Allisson Machado Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
+                <img src="assets/members/allisson.png" alt="Allisson Machado Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
             &nbsp;
             <!-- Álvaro Careli -->
             <a href="https://github.com/alvarosamp">
-                <img src="assets/members/alvaro-rounded.png" alt="Álvaro Careli" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
+                <img src="assets/members/alvaro.png" alt="Álvaro Careli" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
         </div>
     </div>
@@ -94,7 +89,7 @@ O Inatel CubeSat Design Team (ICDT), criado em 2020 no CS&I Lab do Inatel, desen
 
 <!-- WanderLust -->
 <div>
-    <a href="#">
+    <a href="https://github.com/ICDT-Inatel-Cubesat-Design-Team/WanderLust">
         <img align="left" style="height: 176px; width: 176px; padding-right: 20px;" alt="WanderLust Logo" src="assets/projects/wanderlust.png" />
     </a>
     <div>
@@ -103,19 +98,19 @@ O Inatel CubeSat Design Team (ICDT), criado em 2020 no CS&I Lab do Inatel, desen
         <p>📍 OBSAT 2025</p>
         <p>A missão WanderLust visa monitorar rios e corpos d'água para prever inundações. Um CubeSat com uma câmera infravermelha captura imagens que mostram variações na extensão da água.</p>
         <div>
-            <!-- José Eduardo -->
-            <a href="https://github.com/JoseEduardoTeixeira">
-                <img src="assets/members/jose-rounded.png" alt="José Eduardo Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
+            <!-- Júlio César -->
+            <a href="https://github.com/JujuCesar">
+                <img src="assets/members/julio.png" alt="Júlio César Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
             &nbsp;
             <!-- Rodrigo Andrade -->
             <a href="https://github.com/RodrigoCAndrade">
-                <img src="assets/members/rodrigo-rounded.png" alt="Rodrigo Andrade Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
+                <img src="assets/members/rodrigo.png" alt="Rodrigo Andrade Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
             &nbsp;
             <!-- Allisson Machado -->
             <a href="https://github.com/AllissonMAndrade">
-                <img src="assets/members/allisson-rounded.png" alt="Allisson Machado Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
+                <img src="assets/members/allisson.png" alt="Allisson Machado Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
         </div>
     </div>
@@ -124,7 +119,7 @@ O Inatel CubeSat Design Team (ICDT), criado em 2020 no CS&I Lab do Inatel, desen
 
 <!-- Lorentz’s Cage -->
 <div>
-    <a href="https://www.researchgate.net/publication/384630037_Uso_de_Cabos_Eletrodinamicos_em_CubeSats_para_Geracao_de_Energia_atraves_de_Potencial_Eletrostatico">
+    <a href="https://github.com/ICDT-Inatel-Cubesat-Design-Team/Lorentz-v4.0">
         <img align="left" style="height: 176px; width: 176px; padding-right: 20px;" alt="Lorentz’s Cage Logo" src="assets/projects/lorentzs.png" />
     </a>
     <div>
@@ -135,12 +130,12 @@ O Inatel CubeSat Design Team (ICDT), criado em 2020 no CS&I Lab do Inatel, desen
         <div>
             <!-- Diego Anestor -->
             <a align="right" href="https://github.com/DIEGOVZK">
-                <img src="assets/members/diego-rounded.png" alt="Diego Anestor Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
+                <img src="assets/members/diego.png" alt="Diego Anestor Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
             &nbsp;
             <!-- Matheus Renó -->
             <a align="right" href="https://github.com/RennowT">
-                <img src="assets/members/matheus-rounded.png" alt="Matheus Renó Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
+                <img src="assets/members/matheus.png" alt="Matheus Renó Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
         </div>
     </div>
@@ -149,7 +144,7 @@ O Inatel CubeSat Design Team (ICDT), criado em 2020 no CS&I Lab do Inatel, desen
 
 <!-- Eremita -->
 <div>
-    <a href="https://www.researchgate.net/publication/384629909_Eremita_Desenvolvimento_de_um_CubeSat_para_Monitoramento_de_Florestas_usando_LoRa">
+    <a href="https://github.com/ICDT-Inatel-Cubesat-Design-Team/Eremita">
         <img align="left" style="height: 176px; width: 176px; padding-right: 20px;" alt="Eremita Logo" src="assets/projects/eremita.png" />
     </a>
     <div>
@@ -159,17 +154,17 @@ O Inatel CubeSat Design Team (ICDT), criado em 2020 no CS&I Lab do Inatel, desen
         <div>
             <!-- Arielli Ajudarte -->
             <a align="right" href="https://github.com/ari-aju">
-                <img src="assets/members/arielli-rounded.png" alt="Arielli Ajudarte Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
+                <img src="assets/members/arielli.png" alt="Arielli Ajudarte Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
             &nbsp;
             <!-- Lívia Cecília -->
             <a align="right" href="https://github.com/liviaceciliags">
-                <img src="assets/members/livia-rounded.png" alt="Lívia Cecília Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
+                <img src="assets/members/livia.png" alt="Lívia Cecília Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
             &nbsp;
             <!-- Gustavo Pivoto -->
             <a align="right" href="https://github.com/GustavoPivoto">
-                <img src="assets/members/gustavo-rounded.png" alt="Gustavo Pivoto Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
+                <img src="assets/members/gustavo.png" alt="Gustavo Pivoto Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
         </div>
     </div>
@@ -188,12 +183,12 @@ O Inatel CubeSat Design Team (ICDT), criado em 2020 no CS&I Lab do Inatel, desen
         <div>
             <!-- Arielli Ajudarte -->
             <a align="right" href="https://github.com/ari-aju">
-                <img src="assets/members/arielli-rounded.png" alt="Arielli Ajudarte Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
+                <img src="assets/members/arielli.png" alt="Arielli Ajudarte Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
             &nbsp;
             <!-- Diego Anestor -->
             <a align="right" href="https://github.com/DIEGOVZK">
-                <img src="assets/members/diego-rounded.png" alt="Diego Anestor Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
+                <img src="assets/members/diego.png" alt="Diego Anestor Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
         </div>
     </div>
@@ -212,12 +207,12 @@ O Inatel CubeSat Design Team (ICDT), criado em 2020 no CS&I Lab do Inatel, desen
         <div>
             <!-- Diego Anestor -->
             <a align="right" href="https://github.com/DIEGOVZK">
-                <img src="assets/members/diego-rounded.png" alt="Diego Anestor Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
+                <img src="assets/members/diego.png" alt="Diego Anestor Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
             &nbsp;
              <!-- Arielli Ajudarte -->
             <a align="right" href="https://github.com/ari-aju">
-                <img src="assets/members/arielli-rounded.png" alt="Arielli Ajudarte Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
+                <img src="assets/members/arielli.png" alt="Arielli Ajudarte Picture" style="height: 48px; width: 48px; padding-left: 5px; padding-right: 5px;" />
             </a>
         </div>
     </div>
