@@ -7,7 +7,7 @@ O Inatel CubeSat Design Team (ICDT), criado em 2020 no CS&I Lab do Inatel, desen
 <!-- Missões -->
 <div align="left">
     <h2>
-    <img style="height: 24px; width: 24px;" alt="Light Bulb Emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" />&nbsp;&nbsp;Missões
+    <img height=24 width=24 style="height: 24px; width: 24px;" alt="Animated Awards Emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" />&nbsp;&nbsp;Missões
   </h2>
 </div>
 
@@ -223,7 +223,7 @@ O Inatel CubeSat Design Team (ICDT), criado em 2020 no CS&I Lab do Inatel, desen
 <!-- Participe -->
 <div align="left">
     <h2>
-    <img style="height: 24px; width: 24px;" alt="Light Bulb Emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.gif" />&nbsp;&nbsp;Participe
+    <img height=24 width=24 style="height: 24px; width: 24px;" alt="Animated Nerd Emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.gif" />&nbsp;&nbsp;Participe
   </h2>
 </div> Quer participar da equipe? Envie um email para <a href="mailto:csi-adm@inatel.br">csi-adm@inatel.br</a> com seu currículo em anexo, iremos entrar em contato com você durante o período de prospecção de novos membros!
 <br />
@@ -232,6 +232,6 @@ O Inatel CubeSat Design Team (ICDT), criado em 2020 no CS&I Lab do Inatel, desen
 
 <!-- Footer -->
 <div align="center">
-    <sup align="">Feito com <img style="height: 16px; width: 16px;" alt="Light Bulb Emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" /> por <a href="https://github.com/RodrigoCAndrade">Rodrigo Andrade</a>
+    <sup align="">Feito com <img height=16 width=16 style="height: 16px; width: 16px;" alt="Animated Heart Emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" /> por <a href="https://github.com/RodrigoCAndrade">Rodrigo Andrade</a>
   </sup>
 </div>
